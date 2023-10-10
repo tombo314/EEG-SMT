@@ -1,0 +1,7 @@
+①Unityでゲームを起動する
+②脳波計で測定した脳波を、常にファイルに書き込み続ける
+③コントローラーの呪文を唱えるボタンを押す
+④UnityがPythonファイルを実行して、CNNでmodel.predict()する
+⑤Pythonがcsvファイルにpredictの結果を書き込む
+⑥Unityでcsvファイルを読み込む
+⑦Unityで呪文が発動する
